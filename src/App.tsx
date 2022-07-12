@@ -13,7 +13,7 @@ const posts = [
       role: 'Developer',
     },
     content: [
-      { type: 'paragraph', content: 'Fala galeraa 👋' },
+      { type: 'paragraph', content: 'Fala galera 👋' },
       {
         type: 'paragraph',
         content:
